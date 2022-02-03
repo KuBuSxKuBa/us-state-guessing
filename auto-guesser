@@ -1,4 +1,4 @@
-Auto-guesser:
+#Auto-guesser:
 import pandas
 import turtle
 data = pandas.read_csv("50_states.csv")
