@@ -35,6 +35,8 @@ while is_on:
             print("Score!")
         else:
             print("L bozo")
+    else:
+        pass
 # for i in data["state"]:
 #     print(i)
 
